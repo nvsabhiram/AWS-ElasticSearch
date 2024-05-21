@@ -1,5 +1,7 @@
 # AWS-ElasticSearch
 Documentation guidance on AWS ES
+
+
 Elasticsearch is an open-source database tool that can be easily deployed and operated. It is used for the analytic purpose and searching your logs and data in general. Basically, it is a NoSQL database to store the unstructured data in document format. Besides from that, if we talk about AWS Elasticsearch, it is like the Amazon which is easier as a service to create it in the clouds. You can use it for various purposes not only for online poor checking your logs or data, but you can also connect it to your cloud watch and use it for modeling after creating the AWS Elasticsearch.
 
 There may be several ways to add data or connect it with your logs after creating the AWS Elasticsearch. We can use it by API and send the bulk data or files. We can also connect with it using any of our code to do this automatically. You can use third-party plugins with AWS Elasticsearch, e.g., Amazon s3 River plugin. AWS Elasticsearch makes things simpler to its users as they do not need to manually create an Elasticsearch cluster. It allows the user to visualize, analyze, and search the data in real-time.
